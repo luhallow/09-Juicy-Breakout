@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/L'Orange - Old Soul - 01 The Good Shepherd.wav-860e322d12271d701f3d206091371544.sample"
+
+[deps]
+
+source_file="res://Assets/L'Orange - Old Soul - 01 The Good Shepherd.wav"
+dest_files=[ "res://.import/L'Orange - Old Soul - 01 The Good Shepherd.wav-860e322d12271d701f3d206091371544.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

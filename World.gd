@@ -11,4 +11,4 @@ func decrease_lives():
  lives -= 1
  find_node("Lives").update_lives()
  if lives <= 0:
-   get_tree().change_scene("res://End.tscn")
+   get_tree().change_scene("res://Scenes/End.tscn")

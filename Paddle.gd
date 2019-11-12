@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-var new_ball = preload("res://Ball.tscn")
+var new_ball = preload("res://Scenes/Ball.tscn")
 
 func _ready():
  set_process_input(true)
